@@ -1,3 +1,10 @@
-Support -> https://discord.gg/VmXfCpvfsn
+🚘 HUD de Voiture Intuitif & Élégant ! 🚘
+Ajoutez une touche de réalisme et de praticité à votre expérience de conduite dans FiveM !
+Notre HUD de véhicule inclut :
+🌟 Vitesse en temps réel 📊
+⚡ Statut du moteur et dommages 🔧
+⛽ Indicateur de carburant détaillé 🛢️
+🎶 Affichage de la station radio actuelle 📻
+💡 Support pour les véhicules électriques ! ⚡
 
-Rendu en jeux -> ![image](https://github.com/user-attachments/assets/35feac39-5ee0-4f1b-a206-a58721b38fbb)
+https://github.com/RayyUp/Hud-Speed/tree/12b1e3187a76e412071ec0c56fbcb3ec586d6685 
